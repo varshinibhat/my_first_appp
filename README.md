@@ -4,12 +4,12 @@ Screenshots:
 
 1- Docker Image
 
-![](Screenshots//Docker Image.png)
+![](Screenshots//1dockerimage.png)
 
 2 -Docker Running
 
-![](Screenshots//Docker Running.png)
+![](Screenshots//1dockerrunning.png)
 
 3 -App Output
 
-![](Screenshots//App Output.png)
+![](Screenshots//1appoutput.png)
